@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/8/6 星期四 16:37:06。
+     1>项目“C:\Users\kkpanda\Desktop\raytracer\raytracer\raytracer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt sphere.cpp
+         sphere.cpp
+       Link:
+         E:\Program Files\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kkpanda\Desktop\raytracer\Debug\raytracer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kkpanda\Desktop\raytracer\Debug\raytracer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kkpanda\Desktop\raytracer\Debug\raytracer.lib" /MACHINE:X86 Debug\camera.obj
+         Debug\glCanvas.obj
+         Debug\group.obj
+         Debug\image.obj
+         Debug\light.obj
+         Debug\main.obj
+         Debug\material.obj
+         Debug\matrix.obj
+         Debug\object3d.obj
+         Debug\plane.obj
+         Debug\scene_parser.obj
+         Debug\sphere.obj
+         Debug\transform.obj
+         Debug\triangle.obj
+         raytracer.vcxproj -> C:\Users\kkpanda\Desktop\raytracer\Debug\raytracer.exe
+     1>已完成生成项目“C:\Users\kkpanda\Desktop\raytracer\raytracer\raytracer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.00
